@@ -1,0 +1,15 @@
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.DAL\bin\Debug\net8.0\ZOI.DAL.deps.json
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.DAL\bin\Debug\net8.0\ZOI.DAL.dll
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.DAL\bin\Debug\net8.0\ZOI.DAL.pdb
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.DAL\bin\Debug\net8.0\ZOI.Domain.dll
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.DAL\bin\Debug\net8.0\ZOI.Domain.pdb
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.DAL\obj\Debug\net8.0\ZOI.DAL.csproj.AssemblyReference.cache
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.DAL\obj\Debug\net8.0\ZOI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.DAL\obj\Debug\net8.0\ZOI.DAL.AssemblyInfoInputs.cache
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.DAL\obj\Debug\net8.0\ZOI.DAL.AssemblyInfo.cs
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.DAL\obj\Debug\net8.0\ZOI.DAL.csproj.CoreCompileInputs.cache
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.DAL\obj\Debug\net8.0\ZOI.DAL.csproj.Up2Date
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.DAL\obj\Debug\net8.0\ZOI.DAL.dll
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.DAL\obj\Debug\net8.0\refint\ZOI.DAL.dll
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.DAL\obj\Debug\net8.0\ZOI.DAL.pdb
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.DAL\obj\Debug\net8.0\ref\ZOI.DAL.dll
