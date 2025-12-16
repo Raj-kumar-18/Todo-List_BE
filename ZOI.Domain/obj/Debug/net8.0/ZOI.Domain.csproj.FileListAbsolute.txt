@@ -1,0 +1,12 @@
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.Domain\bin\Debug\net8.0\ZOI.Domain.deps.json
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.Domain\bin\Debug\net8.0\ZOI.Domain.dll
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.Domain\bin\Debug\net8.0\ZOI.Domain.pdb
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.Domain\obj\Debug\net8.0\ZOI.Domain.csproj.AssemblyReference.cache
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.Domain\obj\Debug\net8.0\ZOI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.Domain\obj\Debug\net8.0\ZOI.Domain.AssemblyInfoInputs.cache
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.Domain\obj\Debug\net8.0\ZOI.Domain.AssemblyInfo.cs
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.Domain\obj\Debug\net8.0\ZOI.Domain.csproj.CoreCompileInputs.cache
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.Domain\obj\Debug\net8.0\ZOI.Domain.dll
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.Domain\obj\Debug\net8.0\refint\ZOI.Domain.dll
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.Domain\obj\Debug\net8.0\ZOI.Domain.pdb
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.Domain\obj\Debug\net8.0\ref\ZOI.Domain.dll
