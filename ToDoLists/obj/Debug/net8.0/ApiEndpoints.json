@@ -1,0 +1,367 @@
+[
+  {
+    "ContainingType": "Program\u002B\u003C\u003Ec",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_3",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ToDoList.Controllers.ProjectsController",
+    "Method": "GetProjects",
+    "RelativePath": "api/Projects/GetProjects",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ZOI.Domain.Models.JsonResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetProjects"
+  },
+  {
+    "ContainingType": "ToDoList.Controllers.ProjectsController",
+    "Method": "GetProjectsById",
+    "RelativePath": "api/Projects/GetProjectsById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ZOI.Domain.Models.JsonResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetProjectsById"
+  },
+  {
+    "ContainingType": "ToDoList.Controllers.ProjectsController",
+    "Method": "SaveProjects",
+    "RelativePath": "api/Projects/SaveProjects",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "ZOI.Domain.Models.Projects",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ZOI.Domain.Models.JsonResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Projects"
+  },
+  {
+    "ContainingType": "ToDoList.Controllers.TasksController",
+    "Method": "GetStatus",
+    "RelativePath": "api/Tasks/GetStatus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ZOI.Domain.Models.JsonResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Get Status"
+  },
+  {
+    "ContainingType": "ToDoList.Controllers.TasksController",
+    "Method": "GetTasks",
+    "RelativePath": "api/Tasks/GetTasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ZOI.Domain.Models.JsonResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetTasks"
+  },
+  {
+    "ContainingType": "ToDoList.Controllers.TasksController",
+    "Method": "GetTasksById",
+    "RelativePath": "api/Tasks/GetTasksById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ZOI.Domain.Models.JsonResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetTasksById"
+  },
+  {
+    "ContainingType": "ToDoList.Controllers.TasksController",
+    "Method": "SaveTasks",
+    "RelativePath": "api/Tasks/SaveTasks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "ZOI.Domain.Models.Tasks",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ZOI.Domain.Models.JsonResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Tasks"
+  },
+  {
+    "ContainingType": "ToDoList.Controllers.UsersController",
+    "Method": "CustomLogin",
+    "RelativePath": "api/Users/CustomLogin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "ZOI.Domain.Models.Users",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ZOI.Domain.Models.JsonResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Custom-Login"
+  },
+  {
+    "ContainingType": "ToDoList.Controllers.UsersController",
+    "Method": "GetProfile",
+    "RelativePath": "api/Users/GetProfile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ZOI.Domain.Models.JsonResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetProfile"
+  },
+  {
+    "ContainingType": "ToDoList.Controllers.UsersController",
+    "Method": "GetUsers",
+    "RelativePath": "api/Users/GetUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ZOI.Domain.Models.JsonResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetUsers"
+  },
+  {
+    "ContainingType": "ToDoList.Controllers.UsersController",
+    "Method": "Logout",
+    "RelativePath": "api/Users/Logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "Logout"
+  },
+  {
+    "ContainingType": "ToDoList.Controllers.UsersController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/Users/RefreshToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ZOI.Domain.Models.JsonResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Refresh Token"
+  },
+  {
+    "ContainingType": "ToDoList.Controllers.UsersController",
+    "Method": "SignUp",
+    "RelativePath": "api/Users/SignUp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "ZOI.Domain.Models.Users",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ZOI.Domain.Models.JsonResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "SignUp"
+  },
+  {
+    "ContainingType": "ToDoList.Controllers.UsersController",
+    "Method": "SocialLogin",
+    "RelativePath": "api/Users/SocialLogin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "ZOI.Domain.Models.TokenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ZOI.Domain.Models.JsonResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Social-Login"
+  },
+  {
+    "ContainingType": "ToDoList.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ToDoList.WeatherForecast, ToDoList, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
