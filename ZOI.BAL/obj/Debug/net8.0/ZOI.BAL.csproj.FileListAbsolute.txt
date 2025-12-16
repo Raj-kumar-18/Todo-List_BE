@@ -1,0 +1,17 @@
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.BAL\bin\Debug\net8.0\ZOI.BAL.deps.json
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.BAL\bin\Debug\net8.0\ZOI.BAL.dll
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.BAL\bin\Debug\net8.0\ZOI.BAL.pdb
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.BAL\bin\Debug\net8.0\ZOI.DAL.dll
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.BAL\bin\Debug\net8.0\ZOI.Domain.dll
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.BAL\bin\Debug\net8.0\ZOI.DAL.pdb
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.BAL\bin\Debug\net8.0\ZOI.Domain.pdb
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.BAL\obj\Debug\net8.0\ZOI.BAL.csproj.AssemblyReference.cache
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.BAL\obj\Debug\net8.0\ZOI.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.BAL\obj\Debug\net8.0\ZOI.BAL.AssemblyInfoInputs.cache
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.BAL\obj\Debug\net8.0\ZOI.BAL.AssemblyInfo.cs
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.BAL\obj\Debug\net8.0\ZOI.BAL.csproj.CoreCompileInputs.cache
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.BAL\obj\Debug\net8.0\ZOI.BAL.csproj.Up2Date
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.BAL\obj\Debug\net8.0\ZOI.BAL.dll
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.BAL\obj\Debug\net8.0\refint\ZOI.BAL.dll
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.BAL\obj\Debug\net8.0\ZOI.BAL.pdb
+D:\Raj Kumar\MeisterTaskC#\ToDoList\ZOI.BAL\obj\Debug\net8.0\ref\ZOI.BAL.dll
